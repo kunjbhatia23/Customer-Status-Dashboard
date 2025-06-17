@@ -41,7 +41,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/customer-status-dashboard.git
+git clone https://github.com/kunjbhatia23/Customer-Status-Dashboard.git
 cd customer-status-dashboard
 ````
 
